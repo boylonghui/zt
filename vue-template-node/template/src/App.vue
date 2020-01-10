@@ -27,7 +27,4 @@ body {
   height: 100vh;
   margin: 0;
 }
-li {
-  display: block!important;
-}
 </style>
